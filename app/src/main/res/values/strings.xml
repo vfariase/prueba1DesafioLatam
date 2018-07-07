@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Prueba 1 : vfarias</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragment: FragmentDestiny</string>
+
+    <!-- <string name="hint_Email"></string>
+    -->
+    <string name="content_text_fragment">
+        <p>Bienvenido</p>
+    </string>
+
+    <string name="content_text_fragment2">
+        Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor.
+    </string>
+
+</resources>
